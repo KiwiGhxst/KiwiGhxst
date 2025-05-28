@@ -73,7 +73,7 @@
 <ul>
   <li><a href="https://github.com/KiwiGhxst/WebTesting/blob/main/README.md">🔗 WebTesting</a> – Чек-лист, Тест-кейс, баг-репорты для интернет-магазина</li>
   <li><a href="https://github.com/KiwiGhxst/exploratory-cart-report/tree/main">🔗 Смотреть отчёт</a> – Исследовательское тестирование + DevTools + Charles Proxy</li>
-  <li><a href="https://github.com/KiwiGhxst/API-testing/tree/main">🔗 Смотреть документацию</a> – API Тестирование: Postman коллекции</li>
+  <li><a href="https://github.com/KiwiGhxst/API-testing/tree/main">🔗 Смотреть коллекции</a> – API Тестирование: Postman коллекции</li>
   <li><a href="https://github.com/KiwiGhxst/SQL/tree/main">🔗 Смотреть SQL-артефакты</a> – SQL-запросы</li>
   <li><a href="https://github.com/KiwiGhxst/Charles/tree/main">🔗 Charles Proxy</a> – Charles Proxy: перехват и модификация сетевого трафика</li>
   <li><a href="https://github.com/KiwiGhxst/Bash/tree/main">🔗 bash</a> – Bash</li>
@@ -82,6 +82,6 @@
 
 <h2>📫 Контакты для связи и совместной работы:</h2>
 <p align="center" style="display: flex; justify-content: center; gap:20px">
-  <a href=""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href=""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://t.me/KiwiGhxst"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:Plotnikov.Dmitry.Y@yandex.ru"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
