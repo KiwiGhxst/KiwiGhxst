@@ -82,6 +82,6 @@
 
 <h2>📫 Контакты для связи:</h2>
 <p style="display: flex; gap:20px">
-  <a href=""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href=""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://t.me/KiwiGhxst"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:Plotnikov.Dmitry.Y@yandex.ru"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
