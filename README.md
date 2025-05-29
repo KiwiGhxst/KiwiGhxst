@@ -1,27 +1,27 @@
 <div>
-    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Привет, меня зовут Дмитрий!</h4>
+    <h2>👋 Привет, я Дмитрий – QA-инженер</h2>
 </div>
 
-<p><b>Я - QA enginner.</b> Здесь собраны результаты веб и мобильного тестирования, создаными на курсах и в личных проектах. Вы так же можете ознакомиться с моим 
+<p><b>Я - QA engineer.</b> Здесь собраны результаты веб и мобильного тестирования, создаными на курсах и в личных проектах. Вы так же можете ознакомиться с моим 
     <a href=""><b>резюме</b></a>.</p>
 
-<h2>Немного обо мне</h2>
+<h2>Обо мне</h2>
 <ul>
-    <li>🧪 Тестирую full-stack приложения: UI, API, базы данных, мобилки.</li>
-    <li>📚 В свободное время изучаю автоматизацию с упором на практику.</li>
-    <li>🧰 Уверенно пользуюсь HTML, CSS, JavaScript и инструментами разработки.</li>
-    <li>🤝 Нравится рутинная проверка чек-листов и поиск нестандартных багов.</li>
-    <li>🎱 Увлекаюсь бильярдом, люблю науку и слежу за технологическими трендами.</li>
+    <li>🔍 Тестирую full-stack приложения: web, API, мобильные, базы данных.</li>
+    <li>📄 Создаю тестовую документацию: чек-листы, тест-кейсы, баг-репорты.</li>
+    <li>💡 Ищу как рутинные, так и нестандартные баги, люблю разбираться в причинах.</li>
+    <li>🚀 Осваиваю автоматизацию на JavaScript и Postman (в планах – Playwright).</li>
+    <li>🧠 Уверенно работаю с DevTools, Postman, Charles, SQL, Git и Bash.</li>
+    <li>🎱 Увлекаюсь бильярдом, слежу за IT и наукой.</li>
 </ul>
-
 
 <table>   
     <caption>
-        <h2 align="left">Инструменты, которые я использую:</h2>
+        <h2 align="left">🧰 Инструменты и окружение</h2>
     </caption> 
     <tr>
         <td>
-            <h3 style="height: 40px; font-weight: normal">📁 Тестовая документация</h3>
+            <h3 style="height: 40px; font-weight: normal">Документация и управление задачами</h3>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
         <td>
-            <h3 style="height: 40px; font-weight: normal">🛠 Тестирование веб-приложений</h3>
+            <h3 style="height: 40px; font-weight: normal">Web-тестирование</h3>
         </td>
         <td>
             <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td>
-            <h3 style="height: 40px; font-weight: normal">📱 Тестирование мобильных приложений</h3>
+            <h3 style="height: 40px; font-weight: normal">Мобильное тестирование</h3>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
@@ -51,7 +51,7 @@
     </tr>
     <tr>
         <td>
-            <h3 style="height: 40px; font-weight: normal">💾 Работа с данными</h3>
+            <h3 style="height: 40px; font-weight: normal">Работа с данными</h3>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td>
-            <h3 style="height: 40px; font-weight: normal">✏️ Работа с кодом</h3>
+            <h3 style="height: 40px; font-weight: normal">Работа с кодом</h3>
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -71,17 +71,17 @@
 </table>
 <h2>Тестовые артефакты</h2>
 <ul>
-  <li><a href="https://github.com/KiwiGhxst/WebTesting/blob/main/README.md">🔗 WebTesting</a> – Чек-лист, Тест-кейс, баг-репорты для интернет-магазина</li>
+  <li><a href="https://github.com/KiwiGhxst/WebTesting/blob/main/README.md">🔗 WebTesting</a> – Чек-лист, Тест-кейс, баг-репорты (интернет-магазин)</li>
   <li><a href="https://github.com/KiwiGhxst/exploratory-cart-report/tree/main">🔗 Смотреть отчёт</a> – Исследовательское тестирование + DevTools + Charles Proxy</li>
-  <li><a href="https://github.com/KiwiGhxst/API-testing/tree/main">🔗 Смотреть коллекции</a> – API Тестирование: Postman коллекции</li>
-  <li><a href="https://github.com/KiwiGhxst/SQL/tree/main">🔗 Смотреть SQL-артефакты</a> – SQL-запросы</li>
+  <li><a href="https://github.com/KiwiGhxst/API-testing/tree/main">🔗 Смотреть документацию</a> – API Тестирование: Postman коллекции</li>
+  <li><a href="https://github.com/KiwiGhxst/SQL/tree/main">🔗 Смотреть SQL-артефакты</a> – SQL-запросы: выборки, фильтрация, JOIN</li>
   <li><a href="https://github.com/KiwiGhxst/Charles/tree/main">🔗 Charles Proxy</a> – Charles Proxy: перехват и модификация сетевого трафика</li>
-  <li><a href="https://github.com/KiwiGhxst/Bash/tree/main">🔗 bash</a> – Bash</li>
-  <li><a href="https://github.com/KiwiGhxst/Git/tree/main">🔗 Git</a> – Git</li>
+  <li><a href="https://github.com/KiwiGhxst/Bash/tree/main">🔗 bash</a> – Bash: Базовые команды и сценарии</li>
+  <li><a href="https://github.com/KiwiGhxst/Git/tree/main">🔗 Git</a> – Основы работы с Git</li>
 </ul>
 
-<h2>📫 Контакты для связи и совместной работы:</h2>
-<p align="center" style="display: flex; justify-content: center; gap:20px">
-  <a href="https://t.me/KiwiGhxst"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:Plotnikov.Dmitry.Y@yandex.ru"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+<h2>📫 Контакты для связи:</h2>
+<p style="display: flex; gap:20px">
+  <a href=""><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href=""><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
